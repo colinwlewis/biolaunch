@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vercel/
+output/
+*.mp4
+*.mov
+*.webm
+logo-concepts.html
+assets/biolaunch-wordmark*.png
+assets/premium-clinic-hero.png

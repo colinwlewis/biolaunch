@@ -881,12 +881,12 @@ h3 {
 
 .booking-widget {
   min-height: 690px;
-  padding: 10px;
+  padding: 0;
   overflow: hidden;
-  border: 1px solid rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(206, 215, 224, 0.42);
   border-radius: var(--radius);
-  background: rgba(255, 255, 255, 0.96);
-  box-shadow: 0 28px 80px rgba(0, 0, 0, 0.2);
+  background: transparent;
+  box-shadow: none;
 }
 
 .ghl-booking-iframe {
@@ -894,8 +894,8 @@ h3 {
   width: 100%;
   min-height: 670px;
   border: 0;
-  border-radius: 6px;
-  background: #ffffff;
+  border-radius: var(--radius);
+  background: transparent;
   overflow: hidden;
 }
 
